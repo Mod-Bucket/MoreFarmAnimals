@@ -1,0 +1,8 @@
+{
+    "file": "mods/Basic Staples/item/crafting/MoreFarmAnimals/BlackIvoryCoffeeBean.item",
+    "priority": 10, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+  "searchable": true,    
+    }
+} 

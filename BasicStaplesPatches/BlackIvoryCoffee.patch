@@ -1,0 +1,12 @@
+{
+    "file": "mods/Basic Staples/item/complete/MoreFarmAnimals/BlackIvoryCoffee.item",
+    "priority": 10, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+  "pricing": {
+    "appearsInCatalogue": true,  
+	"buyable": true, 
+  },    
+  "searchable": true,    
+    }
+} 

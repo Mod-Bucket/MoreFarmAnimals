@@ -1,0 +1,13 @@
+{
+    "file": "mods/Basic Staples/item/cookbooks/MoreFarmAnimals/CookbookElephant1.tile",
+    "priority": 10, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "appearsInCatalogue": true,
+    "buyable": true,  
+  },
+  "searchable": true,    
+    }  
+} 
