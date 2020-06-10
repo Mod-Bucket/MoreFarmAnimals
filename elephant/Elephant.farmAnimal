@@ -35,7 +35,7 @@
 	],
   "nudeModels": [],
   "paramAnimator": "staxel.paramAnimation.AnimalEat",
-  "eatPartcles": "staxel.particle.farmAnimals.CowEat",
+  "eatPartcles": "mods.mb.MoreFarmAnimals.particles.ElephantEat",
   "moods": {
     "great": [
       "mods.mb.MoreFarmAnimals.eyes.Elephant.great"
@@ -61,7 +61,7 @@
       "_version": 2,
       "Species": "mods.mb.MoreFarmAnimals.species.Elephant",
       "Gender": "female",
-      "Personality": "staxel.personality.Cow",
+      "Personality": "mods.mb.MoreFarmAnimals.personality.Elephant",
       "LeftHanded": false,
       "Shoes": {
         "model": "",
@@ -143,11 +143,7 @@
       "code": "aaa.mods.mb.BasicStaples.item.crops.Peanut"
     }
   ],
-  "milks": [
-    {
-      "code": "staxel.item.crafting.Milk"
-    }
-  ],
+  "milks": [],
   "wools": [],
   "feedKind": "elephantFeed",
   "grazes": true,
