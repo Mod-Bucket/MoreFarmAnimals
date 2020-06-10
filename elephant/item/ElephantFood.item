@@ -19,8 +19,8 @@
     "feedAmount": 6,
     "replaceSound": "staxel.sounds.farmAnimals.Trough.fill"
   },
-  "icon": "mods/MoreFarmAnimals/item/complete/ElephantFood.qb",
-  "inHand": "mods/MoreFarmAnimals/item/complete/ElephantFood.qb",
+  "icon": "mods/MoreFarmAnimals/elephant/item/ElephantFood.qb",
+  "inHand": "mods/MoreFarmAnimals/elephant/item/ElephantFood.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,

@@ -9,11 +9,10 @@
     "trough",
     "feed",
     "feeding",
-    "full",
-    "food",
+    "water",
     "brown"
   ],
-  "code": "aaa.mods.mb.MoreFarmAnimals.Furniture.ElephantTroughFeed",
+  "code": "aaa.mods.mb.MoreFarmAnimals.Furniture.ElephantTroughWater",
   "compound": {
     "size": {
       "x": 3,
@@ -24,11 +23,11 @@
   "feeder": {
     "emptyFeederCode": "aaa.mods.mb.MoreFarmAnimals.Furniture.ElephantTroughEmpty",
     "feedCapacity": 8,
-    "feedKind": "elephantFeed"
+    "feedKind": "water"
   },
   "pricing": {
     "catalogueUnlockedFromStart": false,
-	"appearsInCatalogue": false,  
+	"appearsInCatalogue": false,
     "buyable": true,
     "sellPrice": 180,
     "value": 345
@@ -45,6 +44,6 @@
     },
     "selfDropChance": 0.0
   },
-  "stepSoundGroup": "staxel.sounds.DirtFootSteps",
-  "voxels": "mods/MoreFarmAnimals/furniture/ElephantTroughFeed.qb"
+  "stepSoundGroup": "staxel.sounds.PuddleFootSteps",
+  "voxels": "mods/MoreFarmAnimals/elephant/furniture/ElephantTroughWater.qb"
 }

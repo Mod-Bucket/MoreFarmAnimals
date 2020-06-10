@@ -12,8 +12,8 @@
   ],
   "code": "aaa.mods.mb.MoreFarmAnimals.item.complete.BlackIvoryVanillaCoffee",
   "eatTime": 2,
-  "icon": "mods/MoreFarmAnimals/item/complete/BlackIvoryVanillaCoffee.qb",
-  "inHand": "mods/MoreFarmAnimals/item/complete/BlackIvoryVanillaCoffee.qb",
+  "icon": "mods/MoreFarmAnimals/elephant/item/BlackIvoryVanillaCoffee.qb",
+  "inHand": "mods/MoreFarmAnimals/elephant/item/BlackIvoryVanillaCoffee.qb",
   "inHandOffset": {
     "x": 0.1,
     "y": -0.4,

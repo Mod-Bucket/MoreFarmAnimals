@@ -30,5 +30,5 @@
   },
   "searchable": true,
   "stepSoundGroup": "staxel.sounds.WoodFootSteps",
-  "voxels": "mods/MoreFarmAnimals/furniture/ElephantTroughEmpty.qb"
+  "voxels": "mods/MoreFarmAnimals/elephant/furniture/ElephantTroughEmpty.qb"
 }
