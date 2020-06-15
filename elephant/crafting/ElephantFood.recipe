@@ -17,8 +17,8 @@
   "pricing": {
     "catalogueUnlockedFromStart": false,
     "buyable": true,
-    "sellPrice": 200,
-    "value": 300
+    "sellPrice": 772,
+    "value": 1287
   },
   "result": {
     "count": 5,
@@ -28,6 +28,6 @@
   },
   "searchable": true,
   "steps": [
-	"aaa.mods.mb.MoreFarmAnimals.elephant.crafting.CombineElephantFood1",
+	"aaa.mods.mb.MoreFarmAnimals.elephant.crafting.CombineElephantFoodDummy",
   ]
 }
